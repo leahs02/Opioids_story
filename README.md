@@ -19,3 +19,21 @@ Then the epidemic evolved. The risks of opioids became better known and laws wer
 
 Now, we enter into the fourth decade of the Opioid Epidemic. Once again, it has evolved. Addiction was last generation's problem—ours is fentanyl. People no longer have the luxury of addiction: they are just dying, and we can’t treat people for addiction unless they come to recovery treatment alive. However, our legislature has been slow to adopt this understanding. Still, so much of our current curriculum for drug education is about preventative measures of addiction—which is now out to date—, so much money is being put into telling kids not to take their parents' pills. The irony here is that at least the parent’s pills aren’t going to have fentanyl in them. 
 
+![My Image](CDCTotalOD.jpg)
+
+As Purdue Pharmaceauticals bought a monopoly on America’s pain, citizens were feeling its effects. In the twenty years that followed Purdue Pharmaceauticals’ introduction of OxyContin into the world, there was a 171% increase in total opioid overdose deaths between 1999 and 2015. The results are even more jarring when you break it down by age group. The most affected group was Females, aged 25 - 34, saw a 1,433.33% increase in opioid related deaths between 1999 and 2015.
+
+ Using the data from the CDC I looked at the top 10 states where the number of prescription opioid pills per capita was the highest in 2020. The 10 states with the highest opioid dispensing rates per capita in 2020 included Alabama, Arkansas, Tennessee, Louisiana, Kentucky, Mississippi, Kansas, Oklahoma, Indiana. Most of these states are in the southern and midwestern regions.
+
+The more shocking finding from this analysis, though, was the actual rates themselves. Doctors in Alabama prescribed enough opioids such that 80 out of every 100 people could be using. Opioids are dangerous and addictive, and should only be used by patients in cases of extreme pain. The fact that there were enough opioids to supply half of the populations in those ten states listed above should be horrifying. Even if you listened to your doctor and took your medication exactly as instructed, doctors over perscribed at such hugh rates that addiction among patient became increasingly common. The governemnt and health officials sat complacient while our country was being roofied by Purdue Pharma.
+
+There is one notable limitation to this graph that I should mention here: this data lists the retail opioid prescriptions dispensed per 100 people per state, not necessarily where the drugs were taken.
+
+So unless 80 out of every 100 people in Alabama had actually been consuming all of the opioids prescribed to them, it's easy to see how a lot of the pills could have make it out of bathroom cabinents and onto the streets. Often abusers would have to travel across state lines to reach "pill mills", clinics they knew would over perscribe, to get their fix.
+The largest increases in opioid related overdoses were in West Virginia, Indiana, and Louisiana.
+
+There was not one state with decreasing percent change in opioid related overdoses between 1999 and 2021. Utilizing the data from the CDC's National Center for Health Statistics, I created a choropleth map illustrating the rate of fatal overdoses by state per 100,000 persons to help vizualize what these overdose numbers look like throughout the country.
+The darker the state is, the higher the rate is for drug overdoses per capita.West Virginia had the highest rate of fatal overdoses of 90 per 100,000 people dying that year from overdoses. In the area between the midwest and the east coast, this trend of high rates continues as the map darkens all throughout Kentucky and Tennessee with rates of about 56 overdose deaths per 100,000 people
+
+
+
