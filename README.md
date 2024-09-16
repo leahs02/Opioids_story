@@ -51,7 +51,7 @@ A curriculum as such can harness curiosity and a desire for understanding. The k
 Some educational programs are beginning to embrace this approach. Andrew Huberman, a renowned neuroscientist at Stanford University, hosts the popular "Huberman Lab Podcast," which aims to discuss "science and science-based tools for everyday life" in an accessible manner. His recent episode, “What Alcohol Does to Your Body, Brain, & Health,” has been integrated into high school health curricula. 
 To present substance use as a topic of study rather than judgment can encourage informed conversations and foster a more accurate understanding of addiction.
 
-![My Image](HubermanLabPodcast.png)
+![My Image](HubermanLabPodcast.jpeg)
 
 # Hope on the Horizon: The Next Evolutive Shift in the Epidemic? 
 Amid the devastation, there is a glimmer of hope. Earlier this year, Vertex Pharmaceuticals announced they were testing a new non-opioid drug, VX-548, which blocks pain signals before they reach the brain. If successful, it could offer a safer alternative for pain management, free from the risk of addiction.
