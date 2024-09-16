@@ -19,6 +19,18 @@ When OxyContin first appeared on the market in 1996, it paved the way for an opi
 Geography also played a significant role. Data from the Centers for Disease Control and Prevention (CDC) shows that in 2020, Alabama, Arkansas, Tennessee, Louisiana, and Kentucky ranked among the top states with the highest rates of opioid prescriptions. In Alabama, there were enough prescriptions for 80 out of every 100 people—a shocking statistic considering opioids are meant only for severe pain cases. The widespread over-prescription led to addiction and fed into the illegal drug market, often spreading beyond state lines.
 These excess pills found their way out of medicine cabinets and onto the streets. "Pill mills" became notorious for prescribing opioids with little regard for medical necessity. By 2021, West Virginia, Indiana, and Louisiana reported the highest increases in opioid-related overdoses. Not a single state reported a decrease in overdose deaths between 1999 and 2021. The epidemic had become ubiquitous.
 
-![My Image](Fatal_OD_datawrapper)
+![My Image](COROPLETHMAP.png)
+
+Surveys conducted by local health authorities provide insight into the complex web of social factors that contribute to substance abuse.
+In Columbus, Ohio, the Franklin County Health Department, Columbus Public Health, partnered with the U.S. Department of Health and Human Services in 2021 in an effort to combat the opioid epidemic by developing a specified outreach team to work directly with victims of the epidemic. The goal was harm reduction: bridging the gap between addiction and recovery with a formulated plan designed to decrease overdoses and overdose deaths. Every other Wednesday throughout the summer Walk in for Recovery events were held at different locations throughout Columbus (referred to as Walk-in-Wednesdays or WIWs for short). They hosted providers of medical care, Naloxone distribution, addiction treatment options, health screenings, wound care, HIV testing, HepA vaccinations, and even assistance with obtaining birth certificates or state IDs. 
+The outreach program revealed that 60% of participants struggling with substance abuse were either homeless, in shelters, or living in unstable conditions. Nearly a third had overdosed before, with the majority pointing to opioids—and specifically fentanyl—as the cause. Alarmingly, many reported their first experience with drugs was with family members, indicating a deep, generational cycle of substance abuse.
+**insert a graph to illustrate this***
+
+# The New Victims: The Impact of Fentanyl
+In recent years, the demographic affected by opioid overdoses has shifted. The rise of fentanyl means that overdose deaths are no longer limited to long-time drug users. Deaths are now more sporadic, widespread, and unpredictable.
+
+A UCLA study revealed a startling trend: approximately 22 high school-age adolescents die each week due to drug overdose, with fentanyl being a significant culprit.  The UCLA researchers point out that the ease of access to counterfeit pills laced with fentanyl has exponentially raised the risk for teenagers, many of whom are unwittingly consuming substances far more potent than anticipated. The data challenges the traditional image of drug abuse, illustrating that today's victims are often suburban teens experimenting with what they believe to be relatively harmless substances. These findings bring a grim new layer to the opioid crisis, revealing an intersection of teenage vulnerability, the clandestine spread of fentanyl, and the need for targeted harm reduction strategies in schools and communities nationwide.
+
+
 
 
