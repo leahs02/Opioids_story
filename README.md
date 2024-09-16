@@ -19,6 +19,6 @@ When OxyContin first appeared on the market in 1996, it paved the way for an opi
 Geography also played a significant role. Data from the Centers for Disease Control and Prevention (CDC) shows that in 2020, Alabama, Arkansas, Tennessee, Louisiana, and Kentucky ranked among the top states with the highest rates of opioid prescriptions. In Alabama, there were enough prescriptions for 80 out of every 100 people—a shocking statistic considering opioids are meant only for severe pain cases. The widespread over-prescription led to addiction and fed into the illegal drug market, often spreading beyond state lines.
 These excess pills found their way out of medicine cabinets and onto the streets. "Pill mills" became notorious for prescribing opioids with little regard for medical necessity. By 2021, West Virginia, Indiana, and Louisiana reported the highest increases in opioid-related overdoses. Not a single state reported a decrease in overdose deaths between 1999 and 2021. The epidemic had become ubiquitous.
 
-
+![My Image](Fatal_OD_datawrapper)
 
 
